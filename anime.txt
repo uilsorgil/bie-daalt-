@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <style>
+            body{
+                background-color: beige;
+                text-align: center;
+                font-family: arial;
+            }
+            p{
+                font-size: 25px;
+                color: rgb(57, 55, 55);
+            }
+            h2{
+                font-size: 75px;
+                color:red;
+
+            }
+            h1{
+                font-size: 100px;
+                color: darkblue;
+            }
+            
+            
+
+        .next {
+            background-color: deeppink;
+            color: white;
+            padding: 12px 30px;
+            text-decoration: none;
+            border-radius: 15px;
+            margin: 20px;
+        }
+        
+
+        </style>
+    </head>
+    <body>
+        <h1>Anime</h1>
+        <h2>What is anime</h2>
+        <p>Anime is Japanese animation</p>
+        <p>Anime has colorful characters and interesting stories.</p>
+        <p>many children and adults around the world enjoy watching anime.</p>
+       <br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4mr897JWmAeCZLXoqvA2vH-27SyjWveLirT5YbUS7KaTIzIL463YQHe1&s=10" widht="300" hieght="250">
+        <a href="Untitled-1.html"></a>
+
+       
+
+    <a class="next" href="history.html">Next →</a>
+ 
+    </body>
+</html>
